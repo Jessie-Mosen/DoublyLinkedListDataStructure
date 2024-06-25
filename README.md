@@ -33,10 +33,10 @@ The program uses a Stopwatch to measure and display the time taken for different
 How to Use
 Choose File Size: When prompted, choose a file size (1-11) to load words from the corresponding file into the doubly linked list.
 Perform Operations: After the file is loaded, select the desired file manipulation operation:
-Delete a node
-Find a node
-Print the list
-Insert a word at the front
+  Delete a node
+  Find a node
+  Print the list
+  Insert a word at the front
 Measure Time: The program will display the time taken for the selected operation.
 Example Usage
 arduino
@@ -46,16 +46,13 @@ Press 1 for 1000
 Press 2 for 5000
 ...
 Press 11 for 50000
-After choosing a file size, you can perform operations such as:
 
-css
-Copy code
-Insert Node to Delete: exampleWord
-Target exampleWord found, Node: exampleWord Removed
-Time: 00:00:01.234567 {m:ss}
+
+
 File Structure
 DLList.cs: Contains the DLList class implementation.
 Node.cs: Contains the Node class implementation.
+
 Program.cs: Contains the main program logic for user interaction and performance measurement.
 Requirements
 .NET Core or .NET Framework
