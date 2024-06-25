@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessment2DLList", "Assessment2DLList\Assessment2DLList.csproj", "{A324DE61-1E4B-42EA-AAF9-A6C361994F26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A324DE61-1E4B-42EA-AAF9-A6C361994F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A324DE61-1E4B-42EA-AAF9-A6C361994F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A324DE61-1E4B-42EA-AAF9-A6C361994F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A324DE61-1E4B-42EA-AAF9-A6C361994F26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E485F135-0E7E-44AB-A64C-6B686D8B2657}
+	EndGlobalSection
+EndGlobal
